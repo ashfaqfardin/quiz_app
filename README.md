@@ -1,16 +1,19 @@
-# ccds_quiz_app_v2
+# Quiz App Prototype (HF)
 
-A new Flutter project.
+## Features
+- Multiple-choice quiz format
+- User-friendly UI with smooth navigation
+- Responsive design compatible with both Android and iOS
 
-## Getting Started
+## Technologies Used
+- **Framework**: Flutter
+- **Programming Language**: Dart
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+### Login Screen
+![img.png](img.png)
+### Quiz Selection Page
+![img_1.png](img_1.png)
+### MCQ Page
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
